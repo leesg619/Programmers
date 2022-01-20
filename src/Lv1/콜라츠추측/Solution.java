@@ -7,6 +7,7 @@ public class Solution {
         if ( num == 1 ) return L;
         if(num%2 == 0) { L+=1; return solution(num/2); };
         if(num%2 != 0 ) { L+=1; return solution(num*3+1); };
+        return 0;
     }
 
 }
