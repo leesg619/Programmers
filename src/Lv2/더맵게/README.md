@@ -1,0 +1,1 @@
+Heap Category- PriorityQueue 사용하여 쉽게 풀이 가능 (직관적으로 잘 짠 코드)
